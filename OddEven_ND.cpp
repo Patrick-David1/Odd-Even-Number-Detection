@@ -14,5 +14,3 @@ int main()
         cout << num << " Is an odd number.\n";
     }
 }
-
-//basic math lol//

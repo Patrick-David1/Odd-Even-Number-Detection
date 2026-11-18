@@ -1,3 +1,2 @@
 # Odd-Even-Number-Detection
-Basic Math
-A simple code I made lol, still learning.
+A program that asks you to enter a whole number, saves it in a variable called `num`, and checks whether it is even or odd. It uses an `if-else` statement with the **modulo operator (`%`)** to get the remainder when dividing `num` by 2—if the remainder is `0`, it runs the first block to print that the number is even; otherwise, it jumps to the `else` block and prints that it's odd.
